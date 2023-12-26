@@ -1,0 +1,21 @@
+1. Install the prereq libraries
+
+cv2
+face_recognition
+numpy as np
+time
+winsound
+copy
+pygame
+matplotlib
+autopy
+pyautogui
+time
+winsound
+
+
+2. For drowsiness detection run the script: ./face_recog_dlib_file/Drowsiness Detection.py
+
+3. For mouse control run the script: ./face_recog_dlib_file/Mouse Tracking.py
+
+4. For Heat Mapping run the script: ./face_recog_dlib_file/Heat Mapping.py
