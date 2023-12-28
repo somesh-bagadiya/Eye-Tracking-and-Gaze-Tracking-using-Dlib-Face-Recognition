@@ -2,19 +2,9 @@
 
 ## Overview
 
-Brief description of your project and its purpose.
+Explore eye tracking and gaze analysis using Dlib's Face Recognition library. This project utilizes facial landmark detection to implement robust eye tracking mechanisms and accurately estimate gaze direction. The system tracks eye movements in real-time, offering applications in human-computer interaction, assistive technologies, and virtual reality. The report details the methodology, emphasizing Dlib's suitability for eye tracking. It discusses challenges, strategies for accuracy, and explores limitations, providing insights for future enhancements.
 
-## Features
-
-- List the main features of your project.
-
-## Getting Started
-
-### Prerequisites
-
-- List any prerequisites or dependencies users need to install before using your project.
-
-### Installation
+## Installation
 
 Install python on your machine and then install following libraries.
 
