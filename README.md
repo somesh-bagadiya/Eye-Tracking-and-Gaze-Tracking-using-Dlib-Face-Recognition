@@ -23,9 +23,9 @@ Install Python on your machine and then install the following libraries.
 
 ## Implementations
 
-1. For drowsiness detection run the script: ./EyeTracking/Drowsiness Detection.py
+1. For Drowsiness Detection run the script: ./EyeTracking/Drowsiness Detection.py
 
-2. For mouse control run the script: ./EyeTracking/Mouse Tracking.py
+2. For Mouse Control run the script: ./EyeTracking/Mouse Tracking.py
 
 3. For Heat Mapping run the script: ./EyeTracking/Heat Mapping.py
 
@@ -33,14 +33,19 @@ Install Python on your machine and then install the following libraries.
 
 ### 1. Drowsiness Detection
 
-<img src="Other files/Drowsiness1.png" alt="Drowsiness" width="1000" height="666"/>
+<img src="Other files/Drowsiness1.png" alt="Drowsiness" width="800" height="533"/>
 
 *Caption: Drowsiness Detection*
 
 ### 2. Mouse Tracking
 
-<img src="Other files/Mouse1.png" alt="Mouse Tracking" width="1000" height="666"/>
+<img src="Other files/Mouse1.png" alt="Mouse Tracking" width="800" height="533"/>
 
 *Caption: Mouse Tracking*
 
+### 3. Heat Mapping
 
+<img src="Other files/heat1.png" alt="Mouse Tracking" width="800" height="533"/>
+<img src="Other files/heat2.png" alt="Mouse Tracking" width="800" height="533"/>
+
+*Caption: Heat Mapping*
